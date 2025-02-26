@@ -1,0 +1,19 @@
+[2025-02-15 23:53:30.447] [DISPLAY] [Main ] [dx12] Retrieving D3D12 graphics info
+[2025-02-15 23:53:32.227] [DISPLAY] [Main ] [launcher] Opening log file.
+[2025-02-15 23:53:32.229] [DISPLAY] [Main ] [main] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -skipPatcherCheck -launchTitleInFolder "C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V"
+[2025-02-15 23:53:32.229] [DISPLAY] [Main ] [main] P4 Version: 
+[2025-02-15 23:53:32.229] [DISPLAY] [Main ] [main] RGL Branch: release_01
+[2025-02-15 23:53:32.229] [DISPLAY] [Main ] [main] Version: 1.0.100.2344
+[2025-02-15 23:53:32.229] [DISPLAY] [Main ] [main] Parameters:
+[2025-02-15 23:53:32.229] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2025-02-15 23:53:32.229] [DISPLAY] [Main ] [main]     -skipPatcherCheck
+[2025-02-15 23:53:32.229] [DISPLAY] [Main ] [main]     -launchTitleInFolder
+[2025-02-15 23:53:32.229] [DISPLAY] [Main ] [main]     C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V
+[2025-02-15 23:53:32.229] [DISPLAY] [Main ] [main] Initial Working Directory: C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V
+[2025-02-15 23:53:32.229] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2025-02-15 23:53:32.232] [DISPLAY] [Main ] [packfile] Initialize 'Launcher.rpf' - succeeded
+[2025-02-15 23:53:32.232] [DISPLAY] [Main ] [localisation] Language updated to: 7
+[2025-02-15 23:53:32.259] [DISPLAY] [Main ] [external] Creating Steam min mode launch
+[2025-02-15 23:53:32.286] [DISPLAY] [Main ] [external] Steam title requires launch via the Steam Client. Re-routed the launch request.
+[2025-02-15 23:53:32.286] [DISPLAY] [Main ] [minmode] Starting up normally.
+[2025-02-15 23:53:32.286] [DISPLAY] [Main ] [main] MinMode handler indicated shutdown required (0)
